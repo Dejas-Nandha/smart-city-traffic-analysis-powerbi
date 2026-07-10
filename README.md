@@ -164,9 +164,12 @@ Created **20+ custom DAX measures**
 # Repository Structure
 
 ```
-Dashboard/
-Dataset/
-Images/
+smart_city_traffic_final_Dataset.csv
+Smart_City_Traffic_Analysis_Presentation.pptx
+Smart_City_Traffic_Analysis.pbix
+Home_Page.png
+Streets_Safety.png
+Hidden_Cost.png
 README.md
 ```
 
@@ -174,7 +177,7 @@ README.md
 
 # Author
 
-Dejaswini
+Dejaswini G
 
 
 GitHub:
